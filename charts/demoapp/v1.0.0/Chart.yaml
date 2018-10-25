@@ -1,0 +1,14 @@
+apiVersion: v1
+name: Rancher Catalog Demo
+version: 1.0.0
+description: A demo for deploying custom catalog apps within rancher and using kubernetes
+keywords:
+  - demo
+sources:
+  - https://github.com/kylerome/catalog-rancher-demo
+maintainers: 
+  - name: Kyle Rome
+    email: kyle@rancher.com
+    url: https://github.com/kylerome
+engine: gotpl
+## icon: 
