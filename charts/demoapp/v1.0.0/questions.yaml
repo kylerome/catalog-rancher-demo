@@ -1,0 +1,11 @@
+questions:
+- variable: serviceType
+  default: "ClusterIP"
+  description: "Type of Service to Create (question description)"
+  label: "Service Type (question label)"
+  type: enum
+  group: "Service Configuration (question group)"
+  options:
+    - "ClusterIP"
+    - "NodePort"
+    - "LoadBalancer"
