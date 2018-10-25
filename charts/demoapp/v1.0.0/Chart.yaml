@@ -11,4 +11,4 @@ maintainers:
     email: kyle@rancher.com
     url: https://github.com/kylerome
 engine: gotpl
-## icon: 
+icon: https://github.com/rancher/ui/blob/master/public/assets/images/logos/welcome-cow.svg  
